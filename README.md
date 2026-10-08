@@ -1,2 +1,2 @@
 # BEACON-ONE-CAPITAL
-It is created using HTML, CSS, JQERY, MEDIA QUERY
+It is created using HTML, CSS, JQUERY, MEDIA QUERY
